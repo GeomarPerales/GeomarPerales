@@ -1,7 +1,7 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=navy)
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
-[![MATLAB R2014b+](https://img.shields.io/badge/MATLAB-2014b%2B-blue.svg)]
+| [![matlab-2017](https://img.shields.io/badge/matlab-2017-yellow.svg)](https://www.mathworks.com/products/matlab.html)
 
 ## Summary
 
