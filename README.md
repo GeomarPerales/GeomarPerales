@@ -1,5 +1,7 @@
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=navy)
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/geomar-paul-perales-apaico/)
+![My](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 
-I am water resources enthusiast , amateur programmer and frequent reader. My interests include Water Resources, Geographic Information Science (GIS) and environmental modelling. :wolf: 
+
+I am water resources enthusiast, amateur programmer and frequent reader. My interests include Water Resources, Geographic Information Science (GIS) and environmental modelling. :wolf: 
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=navy)
