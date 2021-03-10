@@ -6,7 +6,7 @@
 I am water resources enthusiast, amateur programmer and frequent reader. My interests include Water Resources, Geographic Information Science (GIS) and environmental modelling. I studied engineering in National University of San Marcos (Peru) and I'm CIDIMF member.
 
 For know muy professional experience, clic in:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geomar-paul-perales-apaico/)](https://www.linkedin.com/in/geomar-paul-perales-apaico/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geomar-paul-perales-apaico/)
 
 ## Blog
 
