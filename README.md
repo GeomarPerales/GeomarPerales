@@ -12,7 +12,3 @@ For know muy professional experience, clic in: https://www.linkedin.com/in/geoma
 Informatics and data analysis for water resources.
 
 https://hydroprime.wordpress.com/
-
-## Code
-
-I'm user of R, Python, Fortran, Matlab and others.
