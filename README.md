@@ -12,3 +12,7 @@ I studied engineering in National University of San Marcos (UNMSM) in Peru and I
 Informatics and data analysis for water resources.
 
 https://hydroprime.wordpress.com/
+
+## ¿You wish to donate? (¿Deseas donar?)
+
+click here (clic aquí): https://hydroprime.wordpress.com/dona-aqui/
