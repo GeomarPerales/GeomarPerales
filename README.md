@@ -13,7 +13,7 @@ Informatics and data analysis for water resources.
 
 https://hydroprime.wordpress.com/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeomarPerales&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeomarPerales&theme=dark)
 
 ## ¿You wish to donate? (¿Deseas donar?)
 
