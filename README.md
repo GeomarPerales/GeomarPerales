@@ -10,15 +10,11 @@ I studied engineering in National University of San Marcos (UNMSM) in Peru and I
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeomarPerales&theme=github_dark&show_icons=true)
 
-
-
 ## Blog
 
 Informatics and data analysis for water resources.
 
 https://hydroprime.wordpress.com/
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeomarPerales&theme=github_dark&show_icons=true)
 
 ## ¿You wish to donate? (¿Deseas donar?)
 
