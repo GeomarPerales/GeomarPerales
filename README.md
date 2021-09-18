@@ -1,5 +1,4 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=navy)
-
 ## Summary
 
 I am water resources enthusiast, programmer and frequent reader. My interests include Water Resources, Geographic Information Science (GIS) and environmental modelling.
