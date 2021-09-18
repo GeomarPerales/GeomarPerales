@@ -15,7 +15,7 @@ https://hydroprime.wordpress.com/
 
 ## Languages (%)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeomarPerales&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeomarPerales&theme=github_dark)
 
 ## ¿You wish to donate? (¿Deseas donar?)
 
