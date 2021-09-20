@@ -13,5 +13,4 @@ Si deseas apoyar (Yape, Plin o Paypal), puedes colaborar en: https://hydroprime.
 ## Blog
 
 Divulgation in Informatics and data analysis for water resources.
-
 https://hydroprime.wordpress.com/
