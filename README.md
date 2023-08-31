@@ -6,10 +6,6 @@
 
 I am water resources enthusiast, programmer and frequent reader. I studied engineering in National University of San Marcos (UNMSM) in Peru and I'm CIDIMF member, CIDIMF is a study group of UNMSM. For know my professional experience: https://www.linkedin.com/in/geomarperales/
 
-If you want to donate (Yape, Plin o Paypal), clic in: https://hydroprime.wordpress.com/dona-aqui/
-
-Si deseas apoyar (Yape, Plin o Paypal), puedes colaborar en: https://hydroprime.wordpress.com/dona-aqui/
-
 ## Blog
 
 Divulgation in Informatics and data analysis for water resources.
